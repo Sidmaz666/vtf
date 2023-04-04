@@ -1,0 +1,22 @@
+{
+  "name": "vtf",
+  "version": "1.0.0",
+  "description": "A Simple Script To Create HTML Boilerplate & Vanilla JS Folder Structures With Tailwindcss & Fontawesome. VTF Stands for VanillaJS, TailwindCSS & Fontawesome",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "boilerplate",
+    "template",
+    "frontend",
+    "vanilla",
+    "taiwindcss",
+    "fontawesome"
+  ],
+  "author": "Sidhartha Mazumder",
+  "license": "ISC",
+  "bin" : {
+    "vtf" : "./index.js"
+  }
+}
