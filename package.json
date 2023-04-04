@@ -16,7 +16,15 @@
   ],
   "author": "Sidhartha Mazumder",
   "license": "ISC",
-  "bin" : {
-    "vtf" : "./index.js"
-  }
+  "bin": {
+    "vtf": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidmaz666/vtf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sidmaz666/vtf/issues"
+  },
+  "homepage": "https://github.com/Sidmaz666/vtf#readme"
 }
