@@ -5,7 +5,7 @@ A Simple Script To Create HTML Boilerplate & Vanilla JS Folder Structures With T
 ## Installation
 
 ```
-npm install -g vtf_setup
+npm install -g @sidmaz666/vtf
 ```
 
 ## Usage
