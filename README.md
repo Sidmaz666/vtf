@@ -2,6 +2,12 @@
 
 A Simple Script To Create HTML Boilerplate & Vanilla JS Folder Structures With Tailwindcss & Fontawesome. VTF Stands for VanillaJS, TailwindCSS & Fontawesome.
 
+## Installation
+
+```
+npm install -g vtf_setup
+```
+
 ## Usage
 
 ```
