@@ -5,7 +5,7 @@ A Simple Script To Create HTML Boilerplate & Vanilla JS Folder Structures With T
 ## Usage
 
 ```
-	vtf {foldername}
+vtf {foldername}
 ```
 
 ### Dependencies
